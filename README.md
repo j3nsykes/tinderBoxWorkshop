@@ -14,6 +14,6 @@ We will also build our Arduino code in [Ardublockly](https://ardublockly.embedde
 - Connecting circuits with Optocouplers
 - Connecting circuits with Mosfets. 
 - Advanced connection, taking control further
-- - Face control
-- - Drawing control
-- - Sound control
+  - Face control
+  - Drawing control
+  - Sound control
