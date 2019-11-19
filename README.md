@@ -1,8 +1,9 @@
 # tinderBoxWorkshop
 
-[Please go to this link to download drivers](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
+A workshop on making things  move and hacking existing circuits for control. 
 
+All code will operate on Arduino boards and the advanced methods look at connecting Processing examples to the physical outputs. 
 
-[or this alternative](https://www.pjrc.com/teensy/td_download.html)
+We will also build our Arduino code in [Ardublockly](https://ardublockly.embeddedlog.com/demo/index.html) to begin with to assist with understanding of creative coding. 
 
-[Ardublockly](https://ardublockly.embeddedlog.com/demo/index.html)
+## Structure: 
